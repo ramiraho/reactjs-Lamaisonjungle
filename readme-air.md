@@ -1,1 +1,1 @@
-# project : reactjs e-commerce
+# my note
